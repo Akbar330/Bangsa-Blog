@@ -1,6 +1,6 @@
 # BANGSA BLOG - Professional News Portal System
 
-[![Laravel Version](https://img.shields.io/badge/Laravel-11.x-red.svg)](https://laravel.com)
+[![Laravel Version](https://img.shields.io/badge/Laravel-13.x-red.svg)](https://laravel.com)
 [![License](https://img.shields.io/badge/License-Proprietary-blue.svg)](LICENSE)
 
 **BANGSA BLOG** adalah platform manajemen konten (CMS) blog dan portal berita profesional yang dibangun dengan Laravel. Didesain dengan estetika modern yang terinspirasi dari portal berita nasional terkemuka, sistem ini menawarkan performa tinggi, keamanan role-based, dan pengalaman pengguna yang luar biasa.
@@ -36,7 +36,7 @@
 
 ## 🛠️ Stack Teknologi
 
-- **Backend**: Laravel 11
+- **Backend**: Laravel 13
 - **Database**: MySQL / MariaDB
 - **Frontend**: Blade, Tailwind CSS, Alpine.js
 - **Assets**: Vite
@@ -47,8 +47,8 @@
 
 1. **Clone project:**
    ```bash
-   git clone https://github.com/bang-jhon/blog-web.git
-   cd blog-web
+   git clone https://github.com/Akbar330/Bangsa-Blog.git
+   cd Bangsa-Blog
    ```
 
 2. **Install dependencies:**
@@ -86,7 +86,7 @@
 
 Project ini memiliki lisensi **Proprietary**. 
 - **Boleh**: Diperbolehkan untuk di-clone untuk tujuan pembelajaran dan pengembangan lokal (personal).
-- **Dilarang**: Penggunaan untuk tujuan **KOMERSIAL** (bisnis, dijual kembali, atau monetisasi) dilarang keras tanpa izin tertulis dari **Bang Jhon**.
+- **Dilarang**: Penggunaan untuk tujuan **KOMERSIAL** (bisnis, dijual kembali, atau monetisasi) dilarang keras tanpa izin tertulis dari **Bangsa Tech Dev**.
 
 ---
-*Dibuat dengan ❤️ oleh Bang Jhon & Team*
+*Dibuat dengan ❤️ oleh Bang Jhon & Bangsa Tech Dev*
